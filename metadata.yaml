@@ -1,0 +1,24 @@
+_repo: Monsieur-Madame-and-Bebe-Volume-03_3925
+creator:
+  author:
+    agent_name: Droz, Gustave
+    birthdate: 1832
+    deathdate: 1895
+    gutenberg_agent_id: '1337'
+    url: http://www.gutenberg.org/2009/agents/1337
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Gustave_Droz
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Family life -- Fiction'
+title: Monsieur, Madame, and Bébé — Volume 03
+url: http://www.gutenberg.org/ebooks/3925
